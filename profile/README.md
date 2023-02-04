@@ -1,4 +1,4 @@
-![not Broken, just different](./cover_heart_infinity.png)
+![not Broken, just different](/profile/cover_heart_infinity.png)
 
 # EN-DI
 
